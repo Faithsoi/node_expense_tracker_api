@@ -10,7 +10,7 @@
 * Uses Global Context for the frontend (react)
 
 ## SetUp instructions
-* Head over to `https://github.com/manulangat1/node_expense_tracker_react_context_api/` and clone it onto your local machine 
+* Head over to `https://github.com/faithsoi/node_expense_tracker_react_context_api/` and clone it onto your local machine 
 * navigate into the cloned folder
 * run `npm install` or `yarn install` to install all the dependancies.
 * Happy hacking....
@@ -26,7 +26,7 @@
 * React Context Koinange
 
 ## Support and contact details.
-* to get in touch with the dev. Email me at **emmmanuelthedeveloper@gmail.com**
+* to get in touch with the dev. Email me at **soicheropfaith@gmail.com**
 
 ## License
 * see the attached `LICENSE.md` file.
