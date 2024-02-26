@@ -32,4 +32,4 @@
 * see the attached `LICENSE.md` file.
 
 
-copyright (c) 2020 **Emmanuel Kipchirchir Langat**
+copyright (c) 2020 **Faith soi**
