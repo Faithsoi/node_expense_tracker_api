@@ -1,8 +1,8 @@
-# By Emmanuel Kipchirchir Langat
+# By Faith soi
 
 #### Expense tracker built using Node js for the backend and React for the frontend,**2020, version 1**
 
-#### By **Kipchirchir Langat Emmanuel**
+#### By **Faith soi**
 
 ## Description
 * Simple expense tracker built using NodeJs for the backend
